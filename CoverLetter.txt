@@ -1,0 +1,30 @@
+Hi there,
+
+I see that you need some help building number of REST APIs. I can help with that and can start right away!
+
+I’m Vinay. I am an independent Consultant Lead Software Engineer from Gurugram, Haryana, India. Vinay help organisations deliver faster and more reliable experiences to their customers. Vinay is full-stack developer and architect with experience in various technologies—including the entire Microsoft stack .NET Framework, .NET Core, and front-end technologies (Angular and React). He also has a great hands on experience in the design and optimization of systems. Vinay is an "Movers & Shakers – I Made A Difference" award-winning developer, an individual contributor, and Lead Engineer.
+
+Most importantly, I am available for hire. My work spans many industries, countries, and formats. From troubleshooting and assessing existing application issues, to training engineers to debug and avoid these common pitfalls in future; from advising and consulting with teams to get a handle on web performance issues, to everything else in between. If you need a faster application, I’ll get you a faster application.
+
+Recent project:
+
+Cloud Based ERP - I worked as full-stack developer, individual contributor on cloud based erp application for one my client from Faridabad. Optimize and manage key business processes from accounting to inventory management using One Cloud Based ERP Application anytime, anywhere. 
+
+URL - http://karbitbiz.com/
+
+Technology: Angular 8, .NET Core, C#, Web API, SQL, Docker, Linux, Azure.
+
+If we were to get started, here's how I would approach this project:
+1. Chat with you determine pain point and processes that need improved and offloaded.
+2. Prioritize the above to get as much off your plate as possible as efficiently as possible.
+3. Document all new process and systems, so that it's very clear what's getting done. who's doing it and on what schedule.
+4. Once we establish the new processes. I would look for ways to optimize this and save even more money by taking some of the more administrative tasks and delegating them to my team (with your approval, first). Once stable processes are in place, I usually try to save my clients money by assigning some of the ongoing management to my team, who operate a lower rate, to save your money.
+5. Over time, we'll continue to try to find ways to make your life easier and improve.
+
+If you think I can help you—and I probably can—say hello: I enjoy working with companies of all shapes, sizes, locations, problems, needs, and budgets. I’m professional, but I’m laid back—drop me a line, and we can see what fits.
+
+Do you have any question for me?
+
+Regards,
+Vinay Arora
+http://vinayaroratech.com/
